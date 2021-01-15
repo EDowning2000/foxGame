@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "dev": "parcel src/index.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -16,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/EDowning2000/foxGame/issues"
   },
-  "homepage": "https://github.com/EDowning2000/foxGame#readme"
+  "homepage": "https://github.com/EDowning2000/foxGame#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
 }
