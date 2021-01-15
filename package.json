@@ -19,6 +19,9 @@
   },
   "homepage": "https://github.com/EDowning2000/foxGame#readme",
   "devDependencies": {
-    "parcel-bundler": "^1.12.4"
+    "eslint-config-prettier": "^7.1.0",
+    "eslint-plugin-import": "^2.22.1",
+    "parcel-bundler": "^1.12.4",
+    "prettier": "^2.2.1"
   }
 }
